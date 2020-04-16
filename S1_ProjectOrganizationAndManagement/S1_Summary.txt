@@ -1,0 +1,10 @@
+
+    Bruegge-Dutoit, Object-Oriented Software Engineering with UML, Patterns and Java, 2009.
+    Software Project Management - www.tutorialspoint.com/software_engineering/software_project_management.htm
+    IEEE 1074-2006: Standard for Developing a Software Project Lifecycle Process, 2006.
+    Communication: E-mail is an antipattern - www.sourcemaking.com/antipatterns/e-mail-is-dangerous
+    Agile42, Scrum Cheat Sheet - www.agile42.com/en/agile-info-center/scrum/scrum-cheat-sheet/
+    Ken Schwaber and Mike Beedle - Agile Software Development with Scrum, Prentice Hall, October 2001.
+    Software Prototype Model - www.tutorialspoint.com/sdlc/sdlc_software_prototyping.htm
+    UML Activity Diagrams, Guidelines by Microsoft - www.tutorialspoint.com/uml/uml_activity_diagram.htm
+    Activity Diagrams, Guidelines by sourcemaking - www.sourcemaking.com/uml/modeling-business-systems/external-view/activity-diagrams

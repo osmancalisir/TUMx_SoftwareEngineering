@@ -1,0 +1,5 @@
+
+    Bernd Bruegge, Allen Dutoit, Object-Oriented Software Engineering Using UML, Patterns, and Java (3rd edition), Chapters 8 and 9
+    Erich Gamma et al., Design Patterns: Elements of Reusable Object-Oriented Software, 1994
+    Frank Buschmann et al., Pattern-Oriented Software Architecture, 1996
+    https://sourcemaking.com/design_patterns

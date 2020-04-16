@@ -1,0 +1,8 @@
+
+    Bruegge-Dutoit, Object-Oriented Software Engineering with UML, Patterns and Java, 2009.
+    git cheat sheet - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+    Interactive GitHub git tutorial - https://try.github.io
+    Interactive CodeSchool git tutorial - https://www.codeschool.com/courses/try-git
+    Another git tutorial - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud 
+    Official git documentation - https://git-scm.com/docs/gittutorial
+    How Do Centralized and DVCS Impact Software Changes? - http://dig.cs.illinois.edu/papers/ICSE14_Caius.pdf

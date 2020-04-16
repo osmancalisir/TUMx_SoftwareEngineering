@@ -1,0 +1,7 @@
+
+    What is Agile Testing? - https://qacomplete.com/resources/articles/what-is-agile-testing/
+    Open source testing frameworks - https://techbeacon.com/6-top-open-source-testing-automation-frameworks-how-choose
+    Engineering higher quality through agile testing practices - https://www.atlassian.com/agile/testing
+    Automated Software Testing - https://www.tutorialspoint.com/software_testing_dictionary/automated_software_testing.htm
+    EasyMock - https://www.tutorialspoint.com/easymock/easymock_tutorial.pdf
+    Google Guice - https://github.com/google/guice

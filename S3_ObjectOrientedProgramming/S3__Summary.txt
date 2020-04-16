@@ -1,0 +1,6 @@
+
+    Essentials of the Java Programming Language http://www.oracle.com/technetwork/java/index-138747.html
+    Eclipse Newcomers FAQ https://www.eclipse.org/home/newcomers.php
+    Eclipse IDE for Java Developers https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygenr
+    OOP Concepts https://docs.oracle.com/javase/tutorial/java/concepts/
+    Getting Started with JavaFX http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm

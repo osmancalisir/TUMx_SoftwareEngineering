@@ -1,0 +1,6 @@
+
+    Erich Gamma et al., Design Patterns: Elements of Reusable Object-Oriented Software, 1994
+    Frank Buschmann et al., Pattern-Oriented Software Architecture, 1996
+    Reducing Coupling, Martin Fowler https://www.martinfowler.com/ieeeSoftware/coupling.pdf
+    https://sourcemaking.com/design_patterns
+    James Dempsey - MVC Song https://www.youtube.com/watch?v=jcZQKlerBhY

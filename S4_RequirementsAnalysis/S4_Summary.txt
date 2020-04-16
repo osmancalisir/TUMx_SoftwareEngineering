@@ -1,0 +1,12 @@
+
+    J. Nielsen, Usability Engineering, Academic Press, 1993.
+    10 Nielsen's Usability Heuristics - www.nngroup.com/articles/ten-usability-heuristics/
+    UML Use Case Diagrams - www.tutorialspoint.com/uml/uml_use_case_diagram.htm
+    UML Class Diagrams - www.tutorialspoint.com/uml/uml_class_diagram.htm
+    Recommendation: The Iceberg Secret Revealed - https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/
+
+Additional Information: User Interface Design Guidelines
+
+    iOS (Apple) Design tips: https://developer.apple.com/design/tips/
+    Android (Google) - Android Design: https://developer.android.com/design/index.html
+    Windows (Microsoft) - User Experience Interaction Guidelines: www.msdn.microsoft.com/en-us/library/windows/desktop/aa511258.aspx

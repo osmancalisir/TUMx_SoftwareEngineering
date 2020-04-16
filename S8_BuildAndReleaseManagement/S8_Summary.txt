@@ -1,0 +1,7 @@
+
+    Continuous Integration, Martin Folwer - www.martinfowler.com/articles/continuousIntegration.html
+    Example: Understanding the Bamboo CI Server - https://confluence.atlassian.com/bamboo0603/understanding-the-bamboo-ci-server-938868289.html
+    Continuous Delivery, Benefits and Challenges - www.infoq.com/articles/cd-benefits-challenges
+    Why Continuous Delivery is needed? - www.101ways.com/7-reasons-why-continuous-delivery-needs-to-be-a-business-initiative/
+    Agile SCM - Build Management for an Agile Team - www.cmcrossroads.com/article/agile-scm-build-management-agile-team
+    8 Steps to Release Management for Agile Teams - www.clearvision-cm.com/blog/8-steps-software-release-management-agile-teams/
